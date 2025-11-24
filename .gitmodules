@@ -1,0 +1,6 @@
+[submodule "common/my"]
+	path = common/my
+	url = https://github.com/hebiiro/my
+[submodule "common/sprintfmt"]
+	path = common/sprintfmt
+	url = https://github.com/hebiiro/sprintfmt
